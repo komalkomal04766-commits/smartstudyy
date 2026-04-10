@@ -1,0 +1,27 @@
+
+
+Course,Category,MinMarks,Duration,Level
+Python Basics,Python,0,4 weeks,Beginner
+Advanced Python,Python,60,6 weeks,Intermediate
+Data Analysis with Python,Python,50,5 weeks,Intermediate
+
+HTML CSS Basics,Web,0,4 weeks,Beginner
+JavaScript Essentials,Web,40,5 weeks,Intermediate
+React Development,Web,60,6 weeks,Intermediate
+Django Backend,Web,70,8 weeks,Advanced
+
+Machine Learning Basics,AI,50,6 weeks,Intermediate
+Deep Learning,AI,75,8 weeks,Advanced
+AI Projects,AI,65,6 weeks,Advanced
+
+Cyber Security Basics,Cyber,0,4 weeks,Beginner
+Ethical Hacking,Cyber,40,6 weeks,Intermediate
+Network Security,Cyber,50,5 weeks,Intermediate
+Penetration Testing,Cyber,70,7 weeks,Advanced
+
+Android Development,Mobile,40,6 weeks,Intermediate
+Flutter Development,Mobile,30,5 weeks,Beginner
+
+UI UX Design,Design,20,4 weeks,Beginner
+Graphic Design,Design,10,3 weeks,Beginner
+Figma Advanced,Design,50,5 weeks,Intermediate
